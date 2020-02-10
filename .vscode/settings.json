@@ -1,3 +1,5 @@
 {
-    "python.pythonPath": "D:\\Programs\\Anaconda\\envs\\rango\\python.exe"
+    "python.pythonPath": "C:\\Users\\Dell\\Anaconda3\\envs\\rango\\python.exe",
+    "python.linting.pylintEnabled": true,
+    "python.linting.enabled": true
 }
